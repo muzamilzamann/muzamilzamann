@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Software Engineering student at the **University of Lahore** (Class of 2027)
+- 🎓 Software Engineering student at the **University of Lahore** (Spring 2023  -  Fall 2026)
 - 🤖 Completed an **AI/ML Engineering internship** at **DevelopersHub Corporation** — earned the *Best Award*
 - 🧠 I build things at the intersection of **AI, backend systems, and mobile apps**
 - 🛠️ Currently building **CaseVision** — an AI-powered legal research platform for Pakistani law
