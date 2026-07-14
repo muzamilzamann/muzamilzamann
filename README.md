@@ -24,9 +24,9 @@
 
 <table>
   <tr>
-    <td width="120" align="center">⚖️</td>
+    <td width="140" align="center"><img src="./assets/casevision.png" width="120" /></td>
     <td>
-      <b><a href="https://github.com/muzamilzamann/CaseVision">CaseVision</a></b><br/>
+      <b><a href="https://github.com/muzamilzamann/CaseVision">CaseVision</a></b> — AI-Powered Legal Assistant<br/>
       AI-powered legal research platform for Pakistani law. Flutter mobile app + FastAPI backend, using Google Gemini for structured case analysis, OCR (pytesseract + pdf2image) for FIR/document processing in English & Urdu, and LangChain + ChromaDB for retrieval.
     </td>
   </tr>
